@@ -1,6 +1,6 @@
 LIS MOI JE SUIS IMPORTANT
 
-Alors premièrement en local tu vas avoir besoin de Xaamp ou Waamp 
+Alors premièrement en local tu vas avoir besoin de Xaamp ou Waamp avec un langage MySQL 5.7.26 de préférence
 
 Ensuite j'espère que tu as toujours les identifiants root et ' ' pour tes BDD sinon clairement ça ne marchera pas
 
